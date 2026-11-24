@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Python test runner cache
+__pycache__/
+*.pyc
+
